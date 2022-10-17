@@ -1,0 +1,10 @@
+.card {
+    box-shadow: -8px 8px 26px -9px rgba(0, 0, 0, 0.77);
+    -webkit-box-shadow: -8px 8px 26px -9px rgba(0, 0, 0, 0.77);
+    -moz-box-shadow: -8px 8px 26px -9px rgba(0, 0, 0, 0.77);
+}
+
+.date_valid {
+    font-size: 70%;
+    
+}

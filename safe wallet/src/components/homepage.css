@@ -1,0 +1,19 @@
+.home_background {
+    background-image: url("../../public/background1.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.home_text {
+    font-size: 50px !important;
+    opacity: 70%;
+    background-color: black;
+    height: 500px;
+    letter-spacing: 4px;
+}
+
+.text {
+    opacity: 100% !important;
+
+}
